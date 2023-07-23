@@ -1,0 +1,22 @@
+.travel-guide-card {
+  background-color: #ffffff;
+  width: 550px;
+  margin: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+.travel-image {
+  width: 100%;
+}
+.description-container {
+  margin: 20px;
+}
+.travel-guide-card-heading {
+  color: #334155;
+  font-size: 24px;
+  margin: 0;
+}
+.travel-guide-card-description {
+  color: #64748b;
+  font-size: 18px;
+}
